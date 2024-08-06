@@ -1,5 +1,8 @@
 # Fex
 <p>github tool by lasith ruwantha 👑</p>
+<p>install my tool</p>
+
+![Fex](Fex.png)
 
 ## termux type cmd
 ```
